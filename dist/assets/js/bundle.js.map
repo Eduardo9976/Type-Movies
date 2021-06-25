@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://type-movies/./src/index.ts"],"names":[],"mappings":";;;;;;;AAAA,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC","file":"bundle.js","sourcesContent":["console.log('oi')"],"sourceRoot":""}
