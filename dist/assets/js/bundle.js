@@ -1,10 +1,12 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 var __webpack_exports__ = {};
-/*!**********************!*\
-  !*** ./src/index.ts ***!
-  \**********************/
+/*!*************************!*\
+  !*** ./src/ts/index.ts ***!
+  \*************************/
 
+console.log('oi');
 
 /******/ })()
 ;
+//# sourceMappingURL=bundle.js.map

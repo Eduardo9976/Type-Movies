@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development', // Modo desenvolvimento para não minificar o arquivo js
-  entry: './src/index.ts', // Pasta de entrada arquivos TS
+  entry: './src/ts/index.ts', // Pasta de entrada arquivos TS
   module: {
     rules: [
       {
